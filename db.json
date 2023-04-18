@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "title": "this is title 2",
+      "body": "this is body 2"
+    },
+    {
+      "id": "271c3b3c-ced4-40a5-aea4-23a7409f3604",
+      "title": "males",
+      "body": "mager"
+    },
+    {
+      "id": "bdbb858b-8069-4655-a7a1-b792c84a0dc2",
+      "title": "bandel",
+      "body": "nakal"
+    }
+  ]
+}
